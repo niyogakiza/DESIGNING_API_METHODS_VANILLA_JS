@@ -1,2 +1,0 @@
-# DESIGNING_API_METHODS_VANILLA_JS
-Created with CodeSandbox
